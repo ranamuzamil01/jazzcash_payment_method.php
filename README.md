@@ -1,1 +1,1 @@
-# jazzcash_payment_method.php
+jazzcash_payment_method.php
